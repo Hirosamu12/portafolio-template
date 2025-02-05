@@ -1,30 +1,30 @@
 {
-    "title": "Thomas A. Anderson (Neo) | Portafolio",
+    "title": "Samuel Yamashita | Portafolio",
     "description": "Soy Neo, posiblemente el mejor programador de la historia.",
     "image": "/avatar.jpg",
     "avatar": "/avatar.jpg",
-    "name": "Thomas A. Anderson (Neo)",
-    "skill": "Programador, hacker y el Elegido",
-    "location": "Matrix y el mundo real",
+    "name": "Samuel Hiroto Yamashita Yamagami",
+    "skill": "Programmer",
+    "location": "Epitafio Mendez Fleitas c/ Panambi Vera. Asunción, Paraguay",
     "media": {
-        "email": "neo@metacortex.com",
-        "cv": "/data/cv.pdf",
-        "github": "https://github.com/thomasanderson",
-        "likedin": "https://linkedin.com/in/thomasanderson"
+        "email": "hirosamu12@gmail.com",
+        "cv": "/data/Samuel_Yamashita_CV_EN.pdf",
+        "github": "https://github.com/Hirosamu12",
+        "likedin": "https://www.linkedin.com/in/samuel-hiroto-yamashita-yamagami-88600b1a6/"
     },
-    "about": "Soy un programador inquieto con una doble vida, ya que trabajo en una prestigiosa empresa de software pero también he cometido todos los crímenes informáticos que existen. Tengo la sensación de que nada es lo que parece ser.",
+    "about": "University student in the 5th semester of the Computer Engineering Degree at the Polytechnic Faculty of the National University of Asunción. I bring a positive attitude, the will and a great motivation to work and continue learning",
     "technologies": [
         {
-            "icon": "devicon-devicon-plain",
-            "name": "Binario"
+            "icon": "devicon-laravel-original",
+            "name": "Laravel"
         },
         {
-            "icon": "devicon-devicon-plain",
-            "name": "Ensamblador"
+            "icon": "devicon-php-plain",
+            "name": "PHP"
         },
         {
-            "icon": "devicon-devicon-plain",
-            "name": "COBOL"
+            "icon": "devicon-java-plain",
+            "name": "Java"
         },
         {
             "icon": "devicon-c-plain",
@@ -33,96 +33,67 @@
         {
             "icon": "devicon-python-plain",
             "name": "Python"
+        },
+        {
+            "icon": "devicon-mysql-original",
+            "name": "MySQL"
         }
     ],
     "experience": [
         {
-            "icon": "terminal",
-            "title": "Metacortex",
-            "subtitle": "Programador",
-            "description": "Programo software respetable desde un cubículo.",
-            "date": "1999"
+            "icon": "laptop",
+            "title": "National Electricity Administration of Paraguay (ANDE)",
+            "subtitle": "Internship",
+            "description": "Computer and printer technical support. /n Network installation and configuration of routers and switches",
+            "date": "2021"
         },
         {
-            "icon": "rabbit",
-            "title": "Nebuchadnezzar",
-            "subtitle": "El Elegido",
-            "description": "Me encargo de salvar el mundo.",
-            "date": "1999 - Actualidad"
+            "icon": "terminal",
+            "title": "Independent work",
+            "subtitle": "Remote freelance work",
+            "description": "Ordering Web Pages",
+            "date": "2025-Present"
         }
     ],
     "projects": [
         {
             "icon": "bar-chart-4",
-            "title": "Software random",
-            "subtitle": "Software propiedad de Metacortex",
-            "description": "Herramienta para hacer rico a otras personas.",
+            "title": "Web Veterinary System",
+            "subtitle": "A very basic project I did to learn Laravel and PHP",
+            "description": "Tool for vets to keep track people and their pets.",
             "technologies": [
                 {
-                    "icon": "devicon-python-plain",
-                    "name": "Python"
+                    "icon": "devicon-laravel-original",
+                    "name": "Laravel"
                 },
                 {
-                    "icon": "devicon-django-plain",
-                    "name": "Django"
-                }
-            ],
-            "image": "/project_1.jpg",
-            "url": "https://matrix.fandom.com/wiki/MetaCortex",
-            "github": "https://github.com/thomasanderson"
-        },
-        {
-            "icon": "bug-off",
-            "title": "Hackeo Matrix",
-            "subtitle": "Mi obra maestra",
-            "description": "Migración del Matrix al mundo real y hackeo del sistema ficticio para salvar a la humanidad.",
-            "technologies": [
+                    "icon": "devicon-php-plain",
+                    "name": "PHP"
+                },
                 {
-                    "icon": "devicon-devicon-plain",
-                    "name": "Binario"
+                    "icon": "devicon-mysql-original",
+                    "name": "MySQL"
                 }
             ],
-            "image": "/project_2.jpg",
-            "url": "https://matrix.fandom.com/wiki/Wiki",
-            "github": "https://github.com/thomasanderson"
+            "image": "/Web_Veterinaria.png",
+            "github": "https://github.com/Hirosamu12/WebVeterinaria"
         }
     ],
     "training": [
         {
             "icon": "backpack",
-            "title": "Central West Junior High",
-            "subtitle": "Una escuela",
-            "description": "Aprendí cosas.",
-            "date": "Indeterminado",
-            "certificate": "https://en.wikipedia.org/wiki/Neo_(The_Matrix)"
+            "title": "National Technical School of Paraguay",
+            "subtitle": "Technical Bachelor's Degree in Services",
+            "description": "Emphasis: Computer Science",
+            "date": "2019-2021",
+            "certificate": "/data/Graduation_Certificate.pdf"
         },
         {
             "icon": "graduation-cap",
-            "title": "Owen Patterson High",
-            "subtitle": "Otra escuela",
-            "description": "Aprendí más cosas.",
-            "date": "Indeterminado",
-            "certificate": "https://en.wikipedia.org/wiki/Neo_(The_Matrix)"
-        }
-    ],
-    "extras": [
-        {
-            "image": "/extra_1.jpg",
-            "title": "The Matrix",
-            "description": "Aparecí en esta película.",
-            "url": "https://en.wikipedia.org/wiki/The_Matrix"
-        },
-        {
-            "image": "/extra_2.jpg",
-            "title": "The Matrix Reloaded",
-            "description": "Y en esta otra.",
-            "url": "https://en.wikipedia.org/wiki/The_Matrix_Reloaded"
-        },
-        {
-            "image": "/extra_3.jpg",
-            "title": "The Matrix Revolutions",
-            "description": "Y en esta más.",
-            "url": "https://en.wikipedia.org/wiki/The_Matrix_Revolutions"
+            "title": "POLYTECHNIC FACULTY - UNA",
+            "subtitle": "Computer Science Engineering",
+            "description": "I'm in 5th semester.",
+            "date": "2022-Present"
         }
     ]
 }
